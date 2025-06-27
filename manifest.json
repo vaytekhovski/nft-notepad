@@ -1,7 +1,5 @@
 {
-  "name": "NFT Notepad",
-  "url": "https://google.com",
-  "iconUrl": "https://google.com/icon.png",
-  "termsOfUseUrl": "https://google.com/terms",
-  "privacyPolicyUrl": "https://google.com/privacy"
+  "url": "https://ton.vote",
+  "name": "TON Vote",
+  "iconUrl": "https://ton.vote/logo.png"
 }
